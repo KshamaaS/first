@@ -1,2 +1,3 @@
-# hello-world
-Getting started with github.
+Getting started with GitHub
+Languages known: Python, Java
+Currently learning: Front end web development.
